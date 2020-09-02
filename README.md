@@ -20,4 +20,4 @@ set COUNT_LIMITED=3
 
 脚本使用说明：
 1.将脚本设置好后放到一个隐秘的位置，防止被发现，例如C:\Windows\System32\系统目录下；
-2.将脚本设置为开机启动任务，具体看操作指南。
+2.将脚本设置为开机启动任务，导入计划任务game guard.xml,具体看操作指南。https://jingyan.baidu.com/article/414eccf60c40e32a431f0af6.html
